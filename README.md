@@ -1,1 +1,4 @@
 # mini-Rogue
+Description: This is a game written in C++.  MiniRogue is an action-adventure game that is modeled after the original Unix Rogue game. In MiniRogue, the player navigates through a multi-level dungeon of mazes, in search of a golden idol. Upon locating the idol, the player is instantly transported out of the dungeon and wins the game.
+
+Upon starting a new game, you the player are placed on the top-level maze of the dungeon. From here, you must work your way through the maze, battling monsters, finding treasures, and using staircases to descend ever deeper into the dungeon's depths. When you reach the bottom level of the dungeon, you must scavenge the maze looking for the golden idol in order to win the game. Once you have taken the idol, you instantly win and the game ends.

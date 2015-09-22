@@ -1,0 +1,2 @@
+#include "Goldidol.h"
+
